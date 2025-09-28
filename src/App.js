@@ -4,6 +4,7 @@ import Body from './components/Body';
 import IPhone from './components/iPhone';
 import Cards from './components/Cards';
 import Footer from './components/Footer';
+
 function App() {
   return (
     <>
@@ -14,6 +15,9 @@ function App() {
     <IPhone/>
     <Cards/>
     <Footer/>
+
+    {/* Routers configurations */}
+
     </>
   );
 }
