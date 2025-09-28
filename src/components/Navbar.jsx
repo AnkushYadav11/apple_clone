@@ -2,7 +2,7 @@ import React from 'react';
 const Navbar = () => {
     return (
         <>
-            <div className='bg-white-400 relative w-full'>
+            <div className='bg-white-400  w-full fixed mb-10'>
                 <div className='flex justify-center p-3'>
                     <ul className='flex justify-center gap-10 [&>*]:text-[13px] [&>*]:text-gray-800'>
                         <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15"  class="bi bi-apple fill-gray-700 hover:fill-black" viewBox="0 0 16 16">

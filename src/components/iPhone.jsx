@@ -20,7 +20,7 @@ const IPhone = () => {
                 </div>
             </div>
 
-            <div className='border'>
+            <div className='border mb-76'>
                 <div className='flex justify-center'>
                     <div className='absolute'>
                         <img src={Air} alt="Iphone Air" />
