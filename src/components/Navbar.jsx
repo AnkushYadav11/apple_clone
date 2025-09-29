@@ -35,7 +35,7 @@ const Navbar = () => {
                 </div>
             </div>
 
-            {isOpen && ( <Store/>)}
+            {isOpen && (<ul><Store/></ul>)}
         </>
     );
 }

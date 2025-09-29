@@ -13,8 +13,8 @@ const IPhone = () => {
                         <h1 className='text-[50px]'>iPhone 17 Pro</h1>
                         <h1 className='text-[29px]'>All out Pro.</h1>
                         <div className='flex w-70 my-4 justify-evenly [&>*]:p-2 [&>*]:px-5 [&>*]:rounded-full'>
-                        <button className='bg-blue-500 text-white '>Learn more</button>
-                        <button className='border border-blue-500 text-blue-500'>Buy</button>
+                        <button className='bg-blue-500 text-white bg-blue-600 hover:bg-blue-500'>Learn more</button>
+                        <button className='border border-blue-500 text-blue-500 hover:bg-blue-700 hover:text-white'>Buy</button>
                         </div>
                     </div>
                 </div>
@@ -30,8 +30,8 @@ const IPhone = () => {
                         <h1 className='text-center text-[23px]'>The thinnest iPhone ever.<br/>
                         With the power of pro inside</h1>
                         <div className='flex justify-evenly [&>*]:border [&>*]:px-5 [&>*]:py-2 [&>*]:rounded-full m-1'>
-                            <button className='border-blue-500 text-white bg-blue-500 '>Learn more.</button>
-                            <button>Buy</button>
+                            <button className='border-blue-500 text-white bg-blue-600 hover:bg-blue-500'>Learn more.</button>
+                            <button className='border-blue text-blue-500 hover:bg-blue-700 hover:text-white'>Buy</button>
                         </div>
                     </div>
                 </div>

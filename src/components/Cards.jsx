@@ -19,8 +19,8 @@ const Cards = () => {
                         <h1>Magichromic.</h1>
                     
                     <div className='flex [&>*]:border [&>*]:rounded-full [&>*]:px-5 [&>*]:py-2 my-2 '>
-                        <button className='mx-2 border-blue-500 text-white bg-blue-500'>Learn more.</button>
-                        <button>Buy</button>
+                        <button className='mx-2 border-blue-500 text-white bg-blue-600 hover:bg-blue-500'>Learn more.</button>
+                        <button className='border-blue-700 text-blue-700 hover:bg-blue-700 hover:text-white'>Buy</button>
                     </div>
                     </div>
                 </div>
@@ -33,8 +33,8 @@ const Cards = () => {
                         Noise Cancellation.</h1>
                     
                     <div className='flex [&>*]:border [&>*]:rounded-full [&>*]:px-5 [&>*]:py-2 my-2 '>
-                        <button className='mx-2 border-blue-500 text-white bg-blue-500'>Learn more.</button>
-                        <button>Buy</button>
+                        <button className='mx-2 border-blue-500 text-white bg-blue-600 hover:bg-blue-500'>Learn more.</button>
+                        <button className='border-blue-700 text-blue-700 hover:bg-blue-700 hover:text-white'>Buy</button>
                     </div>
                     </div>
                 </div>
@@ -46,8 +46,8 @@ const Cards = () => {
                         <h1>The ulitimate watch for a healthy life</h1>
                     
                     <div className='flex [&>*]:border [&>*]:rounded-full [&>*]:px-5 [&>*]:py-2 my-2 '>
-                        <button className='mx-2 border-blue-500 text-white bg-blue-500'>Learn more.</button>
-                        <button>Buy</button>
+                        <button className='mx-2 border-blue-500 text-white bg-blue-600 hover:bg-blue-500'>Learn more.</button>
+                        <button className='border-blue-700 text-blue-700 hover:bg-blue-700 hover:text-white'>Buy</button>
                     </div>
                     </div>
                 </div>
@@ -59,8 +59,8 @@ const Cards = () => {
                         <h1>Walk it. Talk it. Track it. Love it.</h1>
                     
                     <div className='flex [&>*]:border [&>*]:rounded-full [&>*]:px-5 [&>*]:py-2 my-2 '>
-                        <button className='mx-2 border-blue-500 text-white bg-blue-500'>Learn more.</button>
-                        <button>Buy</button>
+                        <button className='mx-2 border-blue-500 text-white bg-blue-600 hover:bg-blue-500'>Learn more.</button>
+                        <button className='border-blue-700 text-blue-700 hover:bg-blue-700 hover:text-white'>Buy</button>
                     </div>
                     </div>
                 </div>
@@ -72,8 +72,8 @@ const Cards = () => {
                         <h1>Personal beast.</h1>
                     
                     <div className='flex [&>*]:border [&>*]:rounded-full [&>*]:px-5 [&>*]:py-2 my-2 '>
-                        <button className='mx-2 border-blue-500 text-white bg-blue-500'>Learn more.</button>
-                        <button className='border border-blue-500 text-blue-500'>Buy</button>
+                        <button className='mx-2 border-blue-500 text-white bg-blue-600 hover:bg-blue-500'>Learn more.</button>
+                        <button className='border-blue-700 text-blue-700 hover:bg-blue-700 hover:text-white'>Buy</button>
                     </div>
                     </div>
                 </div>
@@ -85,8 +85,8 @@ const Cards = () => {
                         <h1>Upgrade and save.<br/>it's that easy.</h1>
                     
                     <div className='flex [&>*]:border [&>*]:rounded-full [&>*]:px-5 [&>*]:py-2 my-2 '>
-                        <button className='mx-2 border-blue-500 text-white bg-blue-500'>Learn more.</button>
-                        <button>Buy</button>
+                        <button className='mx-2 border-blue-500 text-white bg-blue-600 hover:bg-blue-500'>Learn more.</button>
+                        <button className='border-blue-700 text-blue-700 hover:bg-blue-700 hover:text-white'>Buy</button>
                     </div>
                     </div>
                 </div>

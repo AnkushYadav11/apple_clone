@@ -3,7 +3,7 @@ import React from 'react';
 const Store = () => {
     return (
         <>
-        <div className='grid grid-cols-3 mx-90 bg-white relative'>
+        <div className='grid grid-cols-3 mx-90 bg-white blur-500 fixed h-full w-full'>
             <ul>
                 <li>Store</li>
                 <li>Shop the Latest</li>
